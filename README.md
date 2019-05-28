@@ -14,7 +14,7 @@ JavaMonitor 发布之后，受到了很多网友的好评，QQ群也有很多人
 
 ## 三、使用
 
-首先，在[releases](/releases)下载发行版压缩包，解压。
+首先，在releases下载发行版压缩包，解压。
 
 在需要监控的主机上运行 client.jar 包即可，默认8081端口，可以追加参数`--server.port=9999`更改。
 
