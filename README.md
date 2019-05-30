@@ -1,8 +1,10 @@
 # Java应用性能远程监控系统
 
-![./JavaMonitor/picture/logo.png](./JavaMonitor/picture/logo.png)
-
 适用于监控所有Java应用，具有堆内存监控、方法区监控、GC监控、类加载监控、类编译监控与线程监控，提供堆快照下载，线程快照下载。体验网址：[http://116.85.23.6:8888/](http://116.85.23.6:8888/)
+
+## 若借鉴本项目请严格遵守Apache开源协议，声明如下项目为本项目衍生：
+
+- https://github.com/a870439570/boot-actuator
 
 ## 一、简介
 
