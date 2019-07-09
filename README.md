@@ -130,6 +130,9 @@ spring.jpa.hibernate.ddl-auto=update
 
 <img src="./JavaMonitor/picture/赞赏码.png" width="300px">
 
+<img src="http://ww3.sinaimg.cn/large/006tNc79ly1g4rgr77f3ij308c0au74a.jpg" width="300px" referrerPolicy="no-referrer">
+
+
 **JavaMonitorPlus监控架构图**
 
 ![./JavaMonitor/picture/20190317192605.png](./JavaMonitor/picture/20190317192605.png)
