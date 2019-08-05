@@ -126,11 +126,11 @@ spring.jpa.hibernate.ddl-auto=update
 
 *QQ群：781927207*
 
-<img src="./JavaMonitor/picture/didiyun.png" width="100px">[滴滴云免费提供云计算服务](https://www.didiyun.com/?channel=14214)
+[滴滴云免费提供云计算服务](https://www.didiyun.com/?channel=14214)
 
-<img src="./JavaMonitor/picture/赞赏码.png" width="300px">
+<img src="https://s2.ax1x.com/2019/08/05/egzGQg.png" width="300px" referrerpolicy="no-referrer">
 
-<img src="http://ww3.sinaimg.cn/large/006tNc79ly1g4rgr77f3ij308c0au74a.jpg" width="300px" referrerPolicy="no-referrer">
+<img src="https://s2.ax1x.com/2019/08/05/egzkRO.png" width="300px" referrerPolicy="no-referrer">
 
 
 **JavaMonitorPlus监控架构图**
