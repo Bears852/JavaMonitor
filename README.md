@@ -116,7 +116,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## 九、关于作者
 
-*博客：http://www.yueshutong.cn/*
+*博客：https://yueshutong.cnblogs.com/*
 
 *Github：https://github.com/yueshutong/JavaMonitor*
 
