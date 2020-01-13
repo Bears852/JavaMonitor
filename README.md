@@ -1,6 +1,6 @@
 # Java应用性能远程监控系统
 
-适用于监控所有Java应用，具有堆内存监控、方法区监控、GC监控、类加载监控、类编译监控与线程监控，提供堆快照下载，线程快照下载。体验网址：[http://116.85.23.6:8888/](http://116.85.23.6:8888/)
+适用于监控所有Java应用，具有堆内存监控、方法区监控、GC监控、类加载监控、类编译监控与线程监控，提供堆快照下载，线程快照下载。
 
 **若使用本项目二次开发请遵守Apache开源协议，并在项目主页做上述文字说明且附上本页Github地址**
 
@@ -120,17 +120,10 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## 九、关于作者
 
-*博客：https://yueshutong.cnblogs.com/*
-
 *Github：https://github.com/yueshutong/JavaMonitor*
 
 *邮箱：yster@foxmail.com*
 
 *QQ群：781927207*
 
-[滴滴云免费提供云计算服务](https://www.didiyun.com/?channel=14214)
-
-<img src="https://user-images.githubusercontent.com/31175877/67548917-af6d1600-f735-11e9-9807-351e6a2db269.png" width="300px" referrerpolicy="no-referrer">
-
-<img src="https://user-images.githubusercontent.com/31175877/67549023-e17e7800-f735-11e9-89d4-5ca7dac0486d.png" width="300px" referrerpolicy="no-referrer">
-
+<img src='https://i.loli.net/2020/01/13/pPoFNwT6fKCZQ2i.png' width="400px" />
