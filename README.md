@@ -122,8 +122,6 @@ spring.jpa.hibernate.ddl-auto=update
 
 *Github：https://github.com/yueshutong/JavaMonitor*
 
-*邮箱：yster@foxmail.com*
-
-*QQ群：781927207*
+*Email：yster@foxmail.com*
 
 <img src='https://i.loli.net/2020/01/13/pPoFNwT6fKCZQ2i.png' width="400px" />
