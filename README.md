@@ -120,7 +120,7 @@ spring.jpa.hibernate.ddl-auto=update
 
 ## 九、关于作者
 
-*Github：https://github.com/yueshutong/JavaMonitor*
+*Github：https://github.com/ystcode/JavaMonitor*
 
 *Email：yster@foxmail.com*
 
