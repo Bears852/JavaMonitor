@@ -118,10 +118,8 @@ spring.jpa.hibernate.ddl-auto=update
 
 ![./JavaMonitor/picture/20190317192605.png](./JavaMonitor/picture/20190317192605.png)
 
-## 九、关于作者
+## 九、About
 
-*Github：https://github.com/ystcode/JavaMonitor*
-
-*Email：yster@foxmail.com*
+Email：<yster@foxmail.com>
 
 <img src='https://i.loli.net/2020/01/13/pPoFNwT6fKCZQ2i.png' width="400px" />
